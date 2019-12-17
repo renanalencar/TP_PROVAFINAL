@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Estacoes",
+            "request": "launch",
+            "mainClass": "Estacoes",
+            "projectName": "TP_PROVAFINAL"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Primo",
+            "request": "launch",
+            "mainClass": "Primo",
+            "projectName": "TP_PROVAFINAL"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Geometria",
+            "request": "launch",
+            "mainClass": "Geometria",
+            "projectName": "TP_PROVAFINAL"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Programa",
+            "request": "launch",
+            "mainClass": "Programa",
+            "projectName": "TP_PROVAFINAL"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Decrementa",
+            "request": "launch",
+            "mainClass": "Decrementa",
+            "projectName": "TP_PROVAFINAL"
+        }
+    ]
+}
